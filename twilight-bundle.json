@@ -10,7 +10,139 @@
     "author_email": "fouadmogy105@gmail.com",
     "support_url": "",
     "repository": "https://github.com/themiify/tw-thimiify-landing-page",
-    "components": [],
+    "components": [
+        {
+            "title": "Themiify Landing",
+            "icon": "sicon-layout-grid",
+            "name": "themiify-landing",
+            "key": "18c698ce-3dff-4c74-9b17-e3ef72b1a0a9",
+            "image": "https://cdn.salla.network/images/themes/default/placeholder.jpg",
+            "fields": [
+                {
+                    "id": "title",
+                    "icon": "sicon-format-text-alt",
+                    "type": "string",
+                    "label": "Title",
+                    "format": "text",
+                    "required": true,
+                    "placeholder": "Enter component title...",
+                    "value": "Themiify Landing"
+                },
+                {
+                    "id": "content",
+                    "icon": "sicon-paragraph",
+                    "type": "string",
+                    "label": "Content",
+                    "format": "textarea",
+                    "required": false,
+                    "placeholder": "Enter component content...",
+                    "value": "This is a new Themiify Landing component"
+                },
+                {
+                    "id": "button_text",
+                    "icon": "sicon-link",
+                    "type": "string",
+                    "label": "Button Text",
+                    "format": "text",
+                    "required": false,
+                    "placeholder": "Enter CTA button text...",
+                    "value": "Get Started"
+                }
+            ]
+        },
+        {
+            "title": "Themiify Features",
+            "icon": "sicon-layout-grid",
+            "name": "themiify-features",
+            "key": "089c70fc-3755-46b8-8ada-d0ab87cbf846",
+            "image": "https://cdn.salla.network/images/themes/default/placeholder.jpg",
+            "fields": [
+                {
+                    "id": "title",
+                    "icon": "sicon-format-text-alt",
+                    "type": "string",
+                    "label": "Title",
+                    "format": "text",
+                    "required": true,
+                    "placeholder": "Enter component title...",
+                    "value": "Themiify Features"
+                },
+                {
+                    "id": "content",
+                    "icon": "sicon-paragraph",
+                    "type": "string",
+                    "label": "Content",
+                    "format": "textarea",
+                    "required": false,
+                    "placeholder": "Enter component content...",
+                    "value": "This is a new Themiify Features component"
+                }
+            ]
+        },
+        {
+            "title": "New Component",
+            "icon": "sicon-layout-grid",
+            "name": "new-component",
+            "key": "117f5481-d290-4a29-9109-b1ec0890998f",
+            "image": "https://cdn.salla.network/images/themes/default/placeholder.jpg",
+            "fields": [
+                {
+                    "id": "title",
+                    "icon": "sicon-format-text-alt",
+                    "type": "string",
+                    "label": "Title",
+                    "format": "text",
+                    "required": true,
+                    "placeholder": "Enter component title...",
+                    "value": "New Component"
+                },
+                {
+                    "id": "content",
+                    "icon": "sicon-paragraph",
+                    "type": "string",
+                    "label": "Content",
+                    "format": "textarea",
+                    "required": false,
+                    "placeholder": "Enter component content...",
+                    "value": "This is a new New Component component"
+                }
+            ]
+        }
+    ],
+    "templates": [
+        {
+            "id": "a72c7ac5-e20b-4d62-8833-71c6ba25580b",
+            "path": "templates.test",
+            "category_id": "1939592358",
+            "primary_color": "",
+            "thumbnail": "templates-thumbs/test.png",
+            "is_default": true
+        },
+        {
+            "id": "affb2a8e-587c-4a93-a6fe-d235f7a816d9",
+            "path": "templates.test2",
+            "category_id": "814202285",
+            "primary_color": "",
+            "thumbnail": "templates-thumbs/test2.png",
+            "is_default": false
+        },
+        {
+            "id": "b267a068-b981-4a9d-b176-52e0c9b4622a",
+            "path": "templates.test4",
+            "category_id": "665151403",
+            "primary_color": "",
+            "thumbnail": "templates-thumbs/test4.png",
+            "is_default": false
+        },
+        {
+            "id": "aabe209d-2e2d-4308-80ac-370d562a3076",
+            "path": "templates.test5",
+            "category_id": "712950679",
+            "primary_color": "",
+            "thumbnail": "templates-thumbs/test5.png",
+            "is_default": false
+        }
+    ],
     "features": [
         "landing-page-templates"
     ]

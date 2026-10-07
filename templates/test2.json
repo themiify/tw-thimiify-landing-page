@@ -1,0 +1,92 @@
+{
+  "id": "affb2a8e-587c-4a93-a6fe-d235f7a816d9",
+  "components": [
+    {
+      "title": "Themiify Landing",
+      "icon": "sicon-layout-grid",
+      "name": "themiify-landing",
+      "key": "18c698ce-3dff-4c74-9b17-e3ef72b1a0a9",
+      "image": "https://cdn.salla.network/images/themes/default/placeholder.jpg",
+      "fields": [
+        {
+          "id": "title",
+          "icon": "sicon-format-text-alt",
+          "type": "string",
+          "label": "Title",
+          "format": "text",
+          "required": true,
+          "placeholder": "Enter component title...",
+          "value": "Themiify Landing"
+        },
+        {
+          "id": "content",
+          "icon": "sicon-paragraph",
+          "type": "string",
+          "label": "Content",
+          "format": "textarea",
+          "required": false,
+          "placeholder": "Enter component content...",
+          "value": "fdfdd"
+        }
+      ]
+    },
+    {
+      "title": "Themiify Features",
+      "icon": "sicon-layout-grid",
+      "name": "themiify-features",
+      "key": "089c70fc-3755-46b8-8ada-d0ab87cbf846",
+      "image": "https://cdn.salla.network/images/themes/default/placeholder.jpg",
+      "fields": [
+        {
+          "id": "title",
+          "icon": "sicon-format-text-alt",
+          "type": "string",
+          "label": "Title",
+          "format": "text",
+          "required": true,
+          "placeholder": "Enter component title...",
+          "value": "erfgdgdfg"
+        },
+        {
+          "id": "content",
+          "icon": "sicon-paragraph",
+          "type": "string",
+          "label": "Content",
+          "format": "textarea",
+          "required": false,
+          "placeholder": "Enter component content...",
+          "value": "This is a new Themiify Features componentfghdghfghfghfgh"
+        }
+      ]
+    },
+    {
+      "title": "New Component",
+      "icon": "sicon-layout-grid",
+      "name": "new-component",
+      "key": "117f5481-d290-4a29-9109-b1ec0890998f",
+      "image": "https://cdn.salla.network/images/themes/default/placeholder.jpg",
+      "fields": [
+        {
+          "id": "title",
+          "icon": "sicon-format-text-alt",
+          "type": "string",
+          "label": "Title",
+          "format": "text",
+          "required": true,
+          "placeholder": "Enter component title...",
+          "value": "666"
+        },
+        {
+          "id": "content",
+          "icon": "sicon-paragraph",
+          "type": "string",
+          "label": "Content",
+          "format": "textarea",
+          "required": false,
+          "placeholder": "Enter component content...",
+          "value": "89898"
+        }
+      ]
+    }
+  ]
+}

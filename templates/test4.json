@@ -1,0 +1,63 @@
+{
+  "id": "b267a068-b981-4a9d-b176-52e0c9b4622a",
+  "components": [
+    {
+      "title": "Themiify Landing",
+      "icon": "sicon-layout-grid",
+      "name": "themiify-landing",
+      "key": "18c698ce-3dff-4c74-9b17-e3ef72b1a0a9",
+      "image": "https://cdn.salla.network/images/themes/default/placeholder.jpg",
+      "fields": [
+        {
+          "id": "title",
+          "icon": "sicon-format-text-alt",
+          "type": "string",
+          "label": "Title",
+          "format": "text",
+          "required": true,
+          "placeholder": "Enter component title...",
+          "value": "Themiify Landing"
+        },
+        {
+          "id": "content",
+          "icon": "sicon-paragraph",
+          "type": "string",
+          "label": "Content",
+          "format": "textarea",
+          "required": false,
+          "placeholder": "Enter component content...",
+          "value": "This is a new Themiify Landing component"
+        }
+      ]
+    },
+    {
+      "title": "Themiify Features",
+      "icon": "sicon-layout-grid",
+      "name": "themiify-features",
+      "key": "089c70fc-3755-46b8-8ada-d0ab87cbf846",
+      "image": "https://cdn.salla.network/images/themes/default/placeholder.jpg",
+      "fields": [
+        {
+          "id": "title",
+          "icon": "sicon-format-text-alt",
+          "type": "string",
+          "label": "Title",
+          "format": "text",
+          "required": true,
+          "placeholder": "Enter component title...",
+          "value": "Themiify Features"
+        },
+        {
+          "id": "content",
+          "icon": "sicon-paragraph",
+          "type": "string",
+          "label": "Content",
+          "format": "textarea",
+          "required": false,
+          "placeholder": "Enter component content...",
+          "value": "This is a new Themiify Features component"
+        }
+      ]
+    }
+  ]
+}
