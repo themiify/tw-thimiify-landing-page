@@ -1,6 +1,6 @@
 {
     "name": {
-        "ar": "\u062b\u064a\u0645\u064a\u0641\u0627\u064a \u0635\u0641\u062d\u0629 \u0627\u0644\u0647\u0628\u0648\u0637",
+        "ar": "ثيميفاي صفحة الهبوط",
         "en": "thimiify landing page"
     },
     "description": {
@@ -10,5 +10,8 @@
     "author_email": "fouadmogy105@gmail.com",
     "support_url": "",
     "repository": "https://github.com/themiify/tw-thimiify-landing-page",
-    "components": []
+    "components": [],
+    "features": [
+        "landing-page-templates"
+    ]
 }
